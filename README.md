@@ -92,10 +92,4 @@
 | 57 | CNN Backbone Review                  | Review your CNN knowledge, understand feature maps, anchors, and why CNNs are backbone of detectors         |
 | 58 | Pretrained Detection Models          | Explore YOLOv5 / YOLOv8 inference on sample images, visualize predictions, understand confidence thresholds |
 | 59 | Fine-tuning Detection Model          | Load pretrained model, fine-tune on small custom dataset                |
-| 60 | Advanced Training Tricks             | Use augmentation (flips, scale, color), early stopping, learning rate scheduling for detection              |
-| 61 | Evaluation & Metrics                 | Compute mAP, IoU; analyze errors, visualize false positives/negatives                                       |
-| 62 | Multi-class / Multi-object Scenarios | Handle multiple objects per image, class imbalance, threshold tuning                                        |
-| 63 | Optimization & Inference             | Batch inference, GPU utilization, speed-memory tradeoffs, confidence calibration                            |
-| 64 | Detection Project                    | Build a mini project: custom dataset, trained model, evaluation, visualizations                             |
-| 65 | Deployment                           | Wrap detection model in a simple FastAPI endpoint locally, allow image upload → detection output            |
-| 66 | Portfolio Polish                     | Prepare notebook for portfolio: clean code, explanations, results, plots                                    |
+
